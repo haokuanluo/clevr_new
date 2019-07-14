@@ -1,0 +1,3 @@
+[submodule "clevr_robot_env"]
+	path = clevr_robot_env
+	url = https://github.com/google-research/clevr_robot_env.git
